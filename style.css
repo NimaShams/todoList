@@ -1,0 +1,66 @@
+.body{
+    background-color: #2f3542;
+}
+.row{
+    background-color: #f1f2f6;
+}
+.add-btn{
+    background-color: #ff4757;
+    border: 1px solid #ff4757 !important;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 16px;
+    color: #f1f2f6;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    letter-spacing: .5px;
+    -webkit-transition: background-color .2s ease-out;
+    transition: background-color .2s ease-out;
+    cursor: pointer;
+}
+.add-btn:hover{
+    background-color: #ff4757;
+    border: 1px solid #ff4757 !important;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 16px;
+    color: #f1f2f6;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    letter-spacing: .5px;
+    -webkit-transition: background-color .2s ease-out;
+    transition: background-color .2s ease-out;
+    cursor: pointer;
+}
+.add-btn:focus{
+    background-color: #ff4757;
+    border: 1px solid #ff4757 !important;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 16px;
+    color: #f1f2f6;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    letter-spacing: .5px;
+    -webkit-transition: background-color .2s ease-out;
+    transition: background-color .2s ease-out;
+    cursor: pointer;
+}
+.add-btn:active{
+    background-color: #ff4757;
+    border: 1px solid #ff4757 !important;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 16px;
+    color: #f1f2f6;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    letter-spacing: .5px;
+    -webkit-transition: background-color .2s ease-out;
+    transition: background-color .2s ease-out;
+    cursor: pointer;
+}
